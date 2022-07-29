@@ -3,29 +3,43 @@
   padding: 0;
 }
 
+body {
+  background: #f7f7f9;
+  padding-bottom: 50px;
+  height: 562px 335px;
+}
+
 .header {
   display: flex;
   justify-content: space-between;
-  padding: 58px 24px;
   align-items: center;
-  color: #6070ff;
+  color: #6070ff; 
+  background-color: #fff;
+  padding: 25px 24px;
 }
 
-.text-area {
+.workspace {
   background-image: url("images/header-shapes\ background.png");
   background-repeat: no-repeat;
-  padding: 0 24px;
   background-color: #fff;
-  background-size: cover;
+  background-size: cover;  
+  padding: 0px 24px;
+  border-radius: 0 0 0 80px;
+  padding-top: 30px;
+}
+
+.text-area { 
+  font-size: small;
 }
 
 .my-name {
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 700;
-  font-size: 40px;
-  line-height: 52px;
+  font-size: 30px;
+  line-height: 40px;
   color: #172b4d;
+  padding-top: 80px;
 }
 
 .para {
@@ -50,6 +64,27 @@
 
 .image-holder {
   display: flex;
+  padding-bottom: 138px;
+  padding-top: 5px;
   list-style-type: none;
-  justify-content: space-evenly;
+}
+
+.bi {
+  margin-left: 0;
+}
+
+.in {
+  margin-left: 50px;
+}
+
+.m {
+  margin-left: 50px;
+}
+
+.ci {
+  margin-left: 50px;
+}
+
+.ra {
+  margin-left: 50px;
 }
