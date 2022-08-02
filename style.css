@@ -21,7 +21,7 @@ body {
   background-image: url("images/header-shapes\ background.png");
   background-repeat: no-repeat;
   background-color: #fff;
-  background-size: cover;  
+  background-size: cover;
   padding: 0 24px;
   border-radius: 0 0 0 80px;
   padding-top: 30px;
@@ -99,7 +99,7 @@ body {
   background-color: #fff;
   padding: 14px;
   margin-top: 80px;
-} 
+}
 
 .ton {
   font-family: 'Poppins', sans-serif;
@@ -118,7 +118,7 @@ body {
 }
 
 .c {
-  font-family: 'Poppins' sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 13px;
@@ -174,7 +174,7 @@ body {
   border-radius: 5px;
   background-color: #ebebff;
   margin-right: 10px;
-  color:  #6070ff;
+  color: #6070ff;
   padding: 5px 8px;
 }
 
@@ -182,7 +182,7 @@ body {
   border-radius: 5px;
   background-color: #ebebff;
   margin-right: 10px;
-  color:  #6070ff;
+  color: #6070ff;
   padding: 5px 8px;
 }
 
@@ -190,14 +190,14 @@ body {
   border-radius: 5px;
   background-color: #ebebff;
   margin-right: 15px;
-  color:  #6070ff;
-  padding: 0px 8px;
+  color: #6070ff;
+  padding: 0 8px;
   text-align: center;
 }
 
 .project {
   background: #fff;
-  border: 1px solid #DFE1E6;
+  border: 1px solid #dfe1e6;
   border-radius: 7px;
   padding: 8px 8px;
   color: #396df2;
@@ -206,15 +206,15 @@ body {
 
 /* the second card */
 
-.first_card {
+.first_cards- {
   margin: 80px 15px;
 }
 
-.first-card-area {
+.first-card-areas- {
   border-radius: 15px;
   background-color: #fff;
   padding: 14px;
-} 
+}
 
 .multi {
   font-family: 'Poppins', sans-serif;
@@ -226,14 +226,14 @@ body {
   margin: 10px 0;
 }
 
-.random-list {
+.random-lists- {
   display: flex;
   list-style-type: none;
   padding-bottom: 12px;
 }
 
-.c {
-  font-family: 'Poppins' sans-serif;
+.cs- {
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 13px;
@@ -242,11 +242,11 @@ body {
   margin-right: 10px;
 }
 
-.i {
+.is- {
   margin-right: 10px;
 }
 
-.b {
+.bs- {
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 600;
@@ -256,11 +256,11 @@ body {
   margin-right: 10px;
 }
 
-.im {
+.ims- {
   margin-right: 10px;
 }
 
-.date {
+.dates- {
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 600;
@@ -270,7 +270,7 @@ body {
   margin-right: 10px;
 }
 
-.text {
+.texts- {
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -279,40 +279,40 @@ body {
   color: #344563;
 }
 
-.languages {
+.languagess- {
   list-style: none;
   display: flex;
   padding: 12px 0;
 }
 
-.index {
+.indexs- {
   border-radius: 5px;
   background-color: #ebebff;
   margin-right: 10px;
-  color:  #6070ff;
+  color: #6070ff;
   padding: 5px 8px;
 }
 
-.style {
+.styles- {
   border-radius: 5px;
   background-color: #ebebff;
   margin-right: 10px;
-  color:  #6070ff;
+  color: #6070ff;
   padding: 5px 8px;
 }
 
-.script {
+.scripts- {
   border-radius: 5px;
   background-color: #ebebff;
   margin-right: 15px;
-  color:  #6070ff;
-  padding: 0px 8px;
+  color: #6070ff;
+  padding: 0 8px;
   text-align: center;
 }
 
-.project {
+.projects- {
   background: #fff;
-  border: 1px solid #DFE1E6;
+  border: 1px solid #dfe1e6;
   border-radius: 7px;
   padding: 8px 8px;
   color: #396df2;
@@ -320,18 +320,18 @@ body {
 }
 
 /* third card */
-.first_card {
+.first_card- {
   margin: 80px 15px;
 }
 
-.first-card-area {
+.first-card-area- {
   border-radius: 15px;
   background-color: #fff;
   padding: 14px;
   margin-top: 80px;
-} 
+}
 
-.ton {
+.ton- {
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 700;
@@ -341,14 +341,14 @@ body {
   margin: 10px 0;
 }
 
-.random-list {
+.random-list- {
   display: flex;
   list-style-type: none;
   padding-bottom: 12px;
 }
 
-.c {
-  font-family: 'Poppins' sans-serif;
+.c- {
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 13px;
@@ -357,11 +357,11 @@ body {
   margin-right: 10px;
 }
 
-.i {
+.i- {
   margin-right: 10px;
 }
 
-.b {
+.b- {
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 600;
@@ -371,11 +371,11 @@ body {
   margin-right: 10px;
 }
 
-.im {
+.im- {
   margin-right: 10px;
 }
 
-.date {
+.date- {
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 600;
@@ -385,7 +385,7 @@ body {
   margin-right: 10px;
 }
 
-.text {
+.text- {
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -394,38 +394,38 @@ body {
   color: #344563;
 }
 
-.languages {
+.languages- {
   list-style: none;
   display: flex;
   padding: 12px 0;
 }
 
-.index {
+.indexs {
   border-radius: 5px;
   background-color: #ebebff;
   margin-right: 10px;
-  color:  #6070ff;
+  color: #6070ff;
   padding: 5px 8px;
 }
 
-.style {
+.styles {
   border-radius: 5px;
   background-color: #ebebff;
   margin-right: 10px;
-  color:  #6070ff;
+  color: #6070ff;
   padding: 5px 8px;
 }
 
-.script {
+.scripts {
   border-radius: 5px;
   background-color: #ebebff;
   margin-right: 15px;
-  color:  #6070ff;
-  padding: 0px 8px;
+  color: #6070ff;
+  padding: 0 8px;
   text-align: center;
 }
 
-.project {
+.projects {
   background: #fff;
   border: 1px solid #dfe1e6;
   border-radius: 7px;
@@ -449,7 +449,7 @@ body {
   font-weight: 700;
   font-size: 40px;
   line-height: 42px;
-  padding:100px 0 10px 0;
+  padding: 100px 0 10px 0;
 }
 
 .abt_text {
@@ -458,7 +458,7 @@ body {
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
-  color: #344563;   
+  color: #344563;
 }
 
 .abt_connect {
@@ -467,10 +467,10 @@ body {
   font-weight: 500;
   font-size: 8px;
   line-height: 24px;
-  color: #7F8cff;
+  color: #7f8cff;
 }
 
-.image-holder {
+.image-holders {
   padding-bottom: 10px;
 }
 
@@ -495,7 +495,7 @@ body {
 }
 
 .abt_resume {
-  color: #396df2; 
+  color: #396df2;
   border-radius: 5px;
   border: 1px solid #dfe1e6;
   padding: 8px 8px;
@@ -504,12 +504,12 @@ body {
 }
 
 .abt_lang {
- font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
-  color: #000000;
+  color: #000;
   padding: 0 0 20px 10px;
 }
 
@@ -590,7 +590,7 @@ body {
   background: #dfe1e6;
 }
 
-/* Contaact me area*/
+/* Contaact me area */
 
 .contact_me {
   background-color: #fff;
@@ -628,16 +628,17 @@ body {
 
 .cont_yere {
   border-radius: 5px;
-  padding: 5px 5px; 
+  padding: 5px 5px;
   margin-bottom: 8px;
   text-decoration: none;
 }
 
 .cont_email {
   border-radius: 5px;
-  padding: 5px 5px; 
+  padding: 5px 5px;
   margin-bottom: 8px;
 }
+
 .cont_message {
   border-radius: 4px;
   padding: 5px 5px 100px 5px;
@@ -656,8 +657,8 @@ body {
 }
 
 .image_down {
-  border-radius: 10px; 
-  left: calc(50% - 100px/2 - 0.5px);
+  border-radius: 10px;
+  left: calc(50% - 134px / 2 - 0.5px);
   position: absolute;
   margin: 0 0 2px 0;
 }
