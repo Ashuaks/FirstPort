@@ -472,6 +472,9 @@ body {
 
 .image-holders {
   padding-bottom: 10px;
+  display: flex;
+  list-style-type: none;
+  padding: 16px 0 7px 0;
 }
 
 .abt_bi {
@@ -624,7 +627,7 @@ body {
   font-weight: 400;
   line-height: 18px;
   text-align: center;
-}
+}       
 
 .cont_yere {
   border-radius: 5px;
