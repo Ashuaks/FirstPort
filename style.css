@@ -6,7 +6,6 @@
 body {
   background: #f7f7f9;
   padding-bottom: 50px;
-  height: 562px 335px;
 }
 
 .header {
@@ -428,7 +427,7 @@ body {
 
 .project {
   background: #fff;
-  border: 1px solid #DFE1E6;
+  border: 1px solid #dfe1e6;
   border-radius: 7px;
   padding: 8px 8px;
   color: #396df2;
@@ -451,4 +450,214 @@ body {
   font-size: 40px;
   line-height: 42px;
   padding:100px 0 10px 0;
+}
+
+.abt_text {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #344563;   
+}
+
+.abt_connect {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 8px;
+  line-height: 24px;
+  color: #7F8cff;
+}
+
+.image-holder {
+  padding-bottom: 10px;
+}
+
+.abt_bi {
+  margin-right: 20px;
+}
+
+.abt_in {
+  margin-right: 20px;
+}
+
+.abt_m {
+  margin-right: 20px;
+}
+
+.bt_ci {
+  margin-right: 20px;
+}
+
+.abt_ra {
+  margin-left: 14px;
+}
+
+.abt_resume {
+  color: #396df2; 
+  border-radius: 5px;
+  border: 1px solid #dfe1e6;
+  padding: 8px 8px;
+  background-color: #fff;
+  margin-bottom: 25px;
+}
+
+.abt_lang {
+ font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #000000;
+  padding: 0 0 20px 10px;
+}
+
+.abt_img_lang {
+  padding: 0 0 20px 12px;
+}
+
+.js_lang {
+  display: flex;
+  list-style: none;
+  border-radius: 8px;
+  background: #f7f7f9;
+  margin-top: 5px;
+}
+
+.js {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  color: #253858;
+  padding-top: 18px;
+}
+
+.ht_lang {
+  display: flex;
+  list-style: none;
+  border-radius: 8px;
+  background: #f7f7f9;
+  margin-top: 5px;
+}
+
+.ht {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  color: #253858;
+  padding-top: 18px;
+}
+
+.cs_lang {
+  display: flex;
+  list-style: none;
+  border-radius: 8px;
+  background: #f7f7f9;
+  margin-top: 5px;
+}
+
+.cs {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  color: #253858;
+  padding-top: 18px;
+}
+
+.abt_frame {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  color: #000;
+  padding: 20px 0;
+}
+
+.abt_skills {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  color: #000;
+  padding: 20px 0;
+}
+
+.hr {
+  height: 1px;
+  background: #dfe1e6;
+}
+
+/* Contaact me area*/
+
+.contact_me {
+  background-color: #fff;
+  padding-top: 100px;
+}
+
+.contact_holder {
+  background-color: #6070ff;
+  background-image: url("images/contact-form-shapes-mobile.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  justify-content: center;
+  border-radius: 100px 0 0 0;
+  padding: 0 14px;
+}
+
+.cont_head {
+  color: #fff;
+  text-align: center;
+  padding-top: 100px;
+  font-size: 40px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+}
+
+.cont_text {
+  color: #ebebff;
+  padding: 16px;
+  font-size: 15px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  line-height: 18px;
+  text-align: center;
+}
+
+.cont_yere {
+  border-radius: 5px;
+  padding: 5px 5px; 
+  margin-bottom: 8px;
+  text-decoration: none;
+}
+
+.cont_email {
+  border-radius: 5px;
+  padding: 5px 5px; 
+  margin-bottom: 8px;
+}
+.cont_message {
+  border-radius: 4px;
+  padding: 5px 5px 100px 5px;
+}
+
+.cont_get {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  border-radius: 4px;
+  padding: 5px 10px  5px 5px;
+  text-decoration: #6070ff;
+  background-color: #fff;
+  margin: 10px 0 40px 0;
+}
+
+.image_down {
+  border-radius: 10px; 
+  left: calc(50% - 100px/2 - 0.5px);
+  position: absolute;
+  margin: 0 0 2px 0;
 }
