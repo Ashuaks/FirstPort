@@ -1,0 +1,673 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #f7f7f9;
+  padding-bottom: 50px;
+  margin: 0 30px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #6070ff;
+  background-color: #fff;
+  padding: 25px 24px;
+}
+
+.workspace {
+  background-image: url("images/header-shapes\ background.png");
+  background-repeat: no-repeat;
+  background-color: #fff;
+  background-size: cover;
+  padding: 0 24px;
+  border-radius: 0 0 0 80px;
+  padding-top: 30px;
+}
+
+.text-area {
+  font-size: small;
+}
+
+.my-name {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 40px;
+  color: #172b4d;
+  padding-top: 80px;
+}
+
+.para {
+  color: #344563;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  padding-top: 12px;
+}
+
+.connect {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 10px;
+  line-height: 24px;
+  color: #7f8cff;
+  padding: 10px 0;
+}
+
+.image-holder {
+  display: flex;
+  padding-bottom: 138px;
+  padding-top: 5px;
+  list-style-type: none;
+}
+
+.bi {
+  margin-left: 0;
+}
+
+.in {
+  margin-left: 50px;
+}
+
+.m {
+  margin-left: 50px;
+}
+
+.ci {
+  margin-left: 50px;
+}
+
+.ra {
+  margin-left: 50px;
+}
+
+/* cards begins here */
+
+.first_card {
+  margin: 80px 15px;
+}
+
+.first-card-area {
+  border-radius: 15px;
+  background-color: #fff;
+  padding: 14px;
+  margin-top: 80px;
+}
+
+.ton {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 44px;
+  color: #172b4d;
+  margin: 10px 0;
+}
+
+.random-list {
+  display: flex;
+  list-style-type: none;
+  padding-bottom: 12px;
+}
+
+.c {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 16px;
+  color: #344563;
+  margin-right: 10px;
+}
+
+.i {
+  margin-right: 10px;
+}
+
+.b {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 16px;
+  color: #7a869a;
+  margin-right: 10px;
+}
+
+.im {
+  margin-right: 10px;
+}
+
+.date {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 16px;
+  color: #7a869a;
+  margin-right: 10px;
+}
+
+.text {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  color: #344563;
+}
+
+.languages {
+  list-style: none;
+  display: flex;
+  padding: 12px 0;
+}
+
+.index {
+  border-radius: 5px;
+  background-color: #ebebff;
+  margin-right: 10px;
+  color: #6070ff;
+  padding: 5px 8px;
+}
+
+.style {
+  border-radius: 5px;
+  background-color: #ebebff;
+  margin-right: 10px;
+  color: #6070ff;
+  padding: 5px 8px;
+}
+
+.script {
+  border-radius: 5px;
+  background-color: #ebebff;
+  margin-right: 15px;
+  color: #6070ff;
+  padding: 0 8px;
+  text-align: center;
+}
+
+.project {
+  background: #fff;
+  border: 1px solid #dfe1e6;
+  border-radius: 7px;
+  padding: 8px 8px;
+  color: #396df2;
+  margin: 8px 0;
+}
+
+/* the second card */
+
+.first_cards- {
+  margin: 80px 15px;
+}
+
+.first-card-areas- {
+  border-radius: 15px;
+  background-color: #fff;
+  padding: 14px;
+}
+
+.multi {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 44px;
+  color: #172b4d;
+  margin: 10px 0;
+}
+
+.random-lists- {
+  display: flex;
+  list-style-type: none;
+  padding-bottom: 12px;
+}
+
+.cs- {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 16px;
+  color: #344563;
+  margin-right: 10px;
+}
+
+.is- {
+  margin-right: 10px;
+}
+
+.bs- {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 16px;
+  color: #7a869a;
+  margin-right: 10px;
+}
+
+.ims- {
+  margin-right: 10px;
+}
+
+.dates- {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 16px;
+  color: #7a869a;
+  margin-right: 10px;
+}
+
+.texts- {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  color: #344563;
+}
+
+.languagess- {
+  list-style: none;
+  display: flex;
+  padding: 12px 0;
+}
+
+.indexs- {
+  border-radius: 5px;
+  background-color: #ebebff;
+  margin-right: 10px;
+  color: #6070ff;
+  padding: 5px 8px;
+}
+
+.styles- {
+  border-radius: 5px;
+  background-color: #ebebff;
+  margin-right: 10px;
+  color: #6070ff;
+  padding: 5px 8px;
+}
+
+.scripts- {
+  border-radius: 5px;
+  background-color: #ebebff;
+  margin-right: 15px;
+  color: #6070ff;
+  padding: 0 8px;
+  text-align: center;
+}
+
+.projects- {
+  background: #fff;
+  border: 1px solid #dfe1e6;
+  border-radius: 7px;
+  padding: 8px 8px;
+  color: #396df2;
+  margin: 8px 0;
+}
+
+/* third card */
+.first_card- {
+  margin: 80px 15px;
+}
+
+.first-card-area- {
+  border-radius: 15px;
+  background-color: #fff;
+  padding: 14px;
+  margin-top: 80px;
+}
+
+.ton- {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 44px;
+  color: #172b4d;
+  margin: 10px 0;
+}
+
+.random-list- {
+  display: flex;
+  list-style-type: none;
+  padding-bottom: 12px;
+}
+
+.c- {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 16px;
+  color: #344563;
+  margin-right: 10px;
+}
+
+.i- {
+  margin-right: 10px;
+}
+
+.b- {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 16px;
+  color: #7a869a;
+  margin-right: 10px;
+}
+
+.im- {
+  margin-right: 10px;
+}
+
+.date- {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 16px;
+  color: #7a869a;
+  margin-right: 10px;
+}
+
+.text- {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  color: #344563;
+}
+
+.languages- {
+  list-style: none;
+  display: flex;
+  padding: 12px 0;
+}
+
+.indexs {
+  border-radius: 5px;
+  background-color: #ebebff;
+  margin-right: 10px;
+  color: #6070ff;
+  padding: 5px 8px;
+}
+
+.styles {
+  border-radius: 5px;
+  background-color: #ebebff;
+  margin-right: 10px;
+  color: #6070ff;
+  padding: 5px 8px;
+}
+
+.scripts {
+  border-radius: 5px;
+  background-color: #ebebff;
+  margin-right: 15px;
+  color: #6070ff;
+  padding: 0 8px;
+  text-align: center;
+}
+
+.projects {
+  background: #fff;
+  border: 1px solid #dfe1e6;
+  border-radius: 7px;
+  padding: 8px 8px;
+  color: #396df2;
+  margin: 8px 0;
+}
+
+.abt_myself {
+  background-color: #fff;
+  border-radius: 0 80px 0 0;
+}
+
+.myself {
+  padding: 0 14px;
+}
+
+.abt_head {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 42px;
+  padding: 100px 0 10px 0;
+}
+
+.abt_text {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #344563;
+}
+
+.abt_connect {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 8px;
+  line-height: 24px;
+  color: #7f8cff;
+}
+
+.image-holders {
+  padding-bottom: 10px;
+  display: flex;
+  list-style-type: none;
+  padding: 16px 0 7px 0;
+}
+
+.abt_bi {
+  margin-right: 20px;
+}
+
+.abt_in {
+  margin-right: 20px;
+}
+
+.abt_m {
+  margin-right: 20px;
+}
+
+.bt_ci {
+  margin-right: 20px;
+}
+
+.abt_ra {
+  margin-left: 14px;
+}
+
+.abt_resume {
+  color: #396df2;
+  border-radius: 5px;
+  border: 1px solid #dfe1e6;
+  padding: 8px 8px;
+  background-color: #fff;
+  margin-bottom: 25px;
+}
+
+.abt_lang {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #000;
+  padding: 0 0 20px 10px;
+}
+
+.abt_img_lang {
+  padding: 0 0 20px 12px;
+  position: center;
+}
+
+.js_lang {
+  display: flex;
+  list-style: none;
+  border-radius: 8px;
+  background: #f7f7f9;
+  margin-top: 5px;
+}
+
+.js {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  color: #253858;
+  padding-top: 18px;
+}
+
+.ht_lang {
+  display: flex;
+  list-style: none;
+  border-radius: 8px;
+  background: #f7f7f9;
+  margin-top: 5px;
+}
+
+.ht {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  color: #253858;
+  padding-top: 18px;
+}
+
+.cs_lang {
+  display: flex;
+  list-style: none;
+  border-radius: 8px;
+  background: #f7f7f9;
+  margin-top: 5px;
+}
+
+.cs {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  color: #253858;
+  padding-top: 18px;
+}
+
+.abt_frame {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  color: #000;
+  padding: 20px 0;
+}
+
+.abt_skills {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  color: #000;
+  padding: 20px 0;
+}
+
+.hr {
+  height: 1px;
+  background: #dfe1e6;
+}
+
+/* Contaact me area */
+
+.contact_me {
+  background-color: #fff;
+  padding: 100px 0;
+}
+
+.contact_holder {
+  background-color: #6070ff;
+  background-image: url("images/contact-form-shapes-mobile.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  justify-content: center;
+  border-radius: 100px 0 0 0;
+  padding: 5px 14px;
+}
+
+.cont_head {
+  color: #fff;
+  text-align: center;
+  padding-top: 100px;
+  font-size: 40px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+}
+
+.cont_text {
+  color: #ebebff;
+  padding: 16px;
+  font-size: 15px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  line-height: 18px;
+  text-align: center;
+}
+
+.cont_form_area {
+  position: center;
+  padding: 0 120px;
+  margin-right: 15px;
+}
+
+.cont_yere {
+  border-radius: 5px;
+  padding: 5px 5px;
+  margin-bottom: 8px;
+  text-decoration: none;
+}
+
+.cont_email {
+  border-radius: 5px;
+  padding: 5px 5px;
+  margin-bottom: 8px;
+}
+
+.cont_message {
+  border-radius: 4px;
+  padding: 5px 5px 100px 5px;
+}
+
+.cont_get {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  border-radius: 4px;
+  padding: 5px 10px  5px 5px;
+  text-decoration: #6070ff;
+  background-color: #fff;
+  margin: 10px 0 40px 0;
+}
+
+.image_down {
+  border-radius: 10px;
+  padding-bottom: 2px;
+}
